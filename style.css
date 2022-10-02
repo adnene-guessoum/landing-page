@@ -1,3 +1,10 @@
 body {
-
+  display:flex;
+  flex-direction: column;
 }
+
+.web-illustration{
+  width: 300px;
+  height: auto; 
+}
+
