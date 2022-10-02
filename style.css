@@ -3,6 +3,30 @@ body {
   flex-direction: column;
 }
 
+/* header style */
+header {
+  display:flex;
+  justify-content: space-around;
+  align-items:center;
+  background-color:#1F2937;
+}
+
+.logo {
+  font-size: 24px;
+  color:#F9FAF8;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+}
+
+li {
+  list-style-type:none;
+  color: #E5E7EB;
+  font-size: 18px;
+}
+
 .web-illustration{
   width: 300px;
   height: auto; 
