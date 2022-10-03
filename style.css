@@ -42,6 +42,13 @@ li {
 	margin: 40px;
 }
 
+#first {
+  align-self: flex-start;
+  background-color: #3882F6;
+  color:#F9FAF8;
+  padding: 7px;
+}
+
 .web-illustration{
   padding: 20px;
   height: auto;
