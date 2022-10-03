@@ -65,9 +65,40 @@ h1 + p {
 	color: #E5E7EB;
 }
 
+/* Second section */
 
+.information {
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
 
+.cards-content {
+	display:flex;
+	justify-content: space-evenly;
+	gap: 10px;
+    flex-wrap: wrap;
+}
 
+.card {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+}
 
+.web-logo {
+	width : 100px;
+	height : 100px;
+	border: lightblue 2px solid;
+	border-radius: 25px;
+	padding: 5px;
+}
 
-
+.card-description {
+	width : 100px;
+	height : auto;
+	text-align: center;
+}
