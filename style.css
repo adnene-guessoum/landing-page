@@ -175,12 +175,18 @@ figcaption {
 	color:#F9FAF8;
 	border-color:#F9FAF8;
 	padding:3px;
-	width: 90px;
+	width: 120px;
 }
 
 
+/* Footer */
 
-
+footer {
+	background-color: #1F2937;
+	color:#E5E7EB;
+	font-size: 12px;
+	text-align: center;
+}
 
 
 
